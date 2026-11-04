@@ -4,3 +4,4 @@ byte2: ekana ls -la βρηκα αρχειο shakespeare.txt ετρεξα εντ�
 byte3:έτρεξα εντολη diff για τα δυο αρχεία και μου εβγαλε τις διαφορα.
 byte4:έτρεξα εντοή ls, μπήκα αρχείο maze έτρεξα find βρήκα που βρίσκετε το cup.txt και μετά αφου πήγα στον φάκελο εκανα cat για να βρω το περιεχόμενο
 byte5:έκανα υποφάκελο μέσα στον φάκελο /tmp,αντέγραψα το byte5.c στον νέο φάκελο το έκανα complile και το έτρεξα
+byte6:unzip_whenever_you_feel_a_little_compressed
